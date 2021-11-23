@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// this is a test, v1
+
 public class camera_behavior : MonoBehaviour
 {   
     //
